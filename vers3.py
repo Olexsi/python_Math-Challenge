@@ -1,6 +1,6 @@
 import random
 
-num_of_questions = 10
+num_of_questions = 5
 score = 0
 
 for i in range(num_of_questions):
